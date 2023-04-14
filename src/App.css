@@ -10,7 +10,7 @@ nav a {
   color: white;
 }
 .landing {
-  background: url("./assets/images/bg-image.jpg") no-repeat scroll center;
+  background: white url("./assets/images/bg-image.jpg") no-repeat scroll center;
   background-size: cover;
   height: 100vh;
 }
